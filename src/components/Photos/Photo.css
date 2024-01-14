@@ -1,0 +1,7 @@
+.photoList-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    row-gap: 30px;
+    padding: 20px 2px;
+}
